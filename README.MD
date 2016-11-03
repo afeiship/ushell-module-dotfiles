@@ -6,7 +6,16 @@ Unix like shell module for dotfiles.
 + http://search.cpan.org/~ilyam/Data-Dumper-2.121/Dumper.pm
 
 ## commands:
+```bash
+## clone from github:
+git clone git@github.com:afeiship/dotfiles.git ~/.dotfiles
 
+## install symbol link:
+~/.dotfiles/bin dfm install;
+
+## if faild paste to .bash_profile
+echo '. $HOME/.shellrc.load' >> ~/.bash_profile;
+```
 
 ## aliyun-centos
 + errors for dfm:
