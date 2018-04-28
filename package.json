@@ -1,0 +1,23 @@
+{
+  "name": "ushell-module-dotfiles",
+  "version": "0.0.1",
+  "description": "Unix like shell module for dotfiles.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-dotfiles.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "system",
+    "infomation"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-dotfiles/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-dotfiles#readme"
+}
