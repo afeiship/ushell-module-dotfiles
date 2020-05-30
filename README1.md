@@ -1,11 +1,12 @@
 # ushell-module-dotfiles
-Unix like shell module for dotfiles.
+> Unix like shell module for dotfiles.
 
-## resources:
-+ https://help.directadmin.com/item.php?id=189
-+ http://search.cpan.org/~ilyam/Data-Dumper-2.121/Dumper.pm
+## installation
+```shell
+npm i -S @feizheng/ushell-module-dotfiles
+```
 
-## commands:
+## commands
 ```bash
 ## clone from github:
 git clone git@github.com:afeiship/dotfiles.git ~/.dotfiles
@@ -31,3 +32,7 @@ perl Makefile.PL
 make
 make install
 ```
+
+## resources
+- https://help.directadmin.com/item.php?id=189
+- http://search.cpan.org/~ilyam/Data-Dumper-2.121/Dumper.pm

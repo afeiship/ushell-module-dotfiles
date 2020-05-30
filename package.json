@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-dotfiles",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-dotfiles",
+  "version": "1.0.0",
   "description": "Unix like shell module for dotfiles.",
   "main": "index.sh",
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-dotfiles/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-dotfiles#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-dotfiles#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
