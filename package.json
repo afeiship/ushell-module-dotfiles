@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-dotfiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unix like shell module for dotfiles.",
   "main": "index.sh",
   "repository": {
