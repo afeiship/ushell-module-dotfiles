@@ -1,6 +1,6 @@
 {
-  "name": "@feizheng/ushell-module-dotfiles",
-  "version": "1.0.1",
+  "name": "@jswork/ushell-module-dotfiles",
+  "version": "1.0.0",
   "description": "Unix like shell module for dotfiles.",
   "main": "index.sh",
   "repository": {
@@ -9,10 +9,11 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
+    "dotfiles",
     "system",
-    "infomation"
+    "backup",
+    "alias",
+    "unix"
   ],
   "author": "afei",
   "license": "MIT",
